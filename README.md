@@ -10,7 +10,10 @@ For now, none.
 But here's the ones that are likely to be used:
 * TKinter (Windows)
 * GTK4 (Linux)
-* [UNKNOWN] Tkinter (MacOS)
+* GTK4 (MacOS)
+
+### Why GTK4 for MacOS?
+Because i feel it fits the MacOS style.
 
 ## SEVERAL WARNINGS
 1. I don't have an access to a MacOS operating system so if you have one, feel free to contribute. My main OS is Linux (Mint).
